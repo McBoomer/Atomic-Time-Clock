@@ -1,6 +1,6 @@
-## Clock App
-# Atomic Clock Synconization Clock Display
-# Muadh Khan
+# Clock App
+## Atomic Clock Synconization Clock Display
+## Muadh Khan
 
 ## Demonstration Video
 https://github.com/user-attachments/assets/1f1339a4-5f2e-425f-bf63-2083ede9be01
