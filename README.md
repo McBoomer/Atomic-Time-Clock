@@ -1,10 +1,9 @@
 # Clock App
-## Atomic Clock Synconization Clock Display
-## Muadh Khan
+Atomic Clock Synconization Clock Display
+Muadh Khan
 
 ## Demonstration Video
 https://github.com/user-attachments/assets/1f1339a4-5f2e-425f-bf63-2083ede9be01
-
 
 Atomic Time is an exceptionally precise method of time-keeping that relies on the consistent and fundamental resonant frequencies of atoms, such as cesium-133, to define the standard unit of a second.
 I created this clock to sync up exactly with that standard second. It displays my ability to take a simple thing like a clock and refine it to be the most accuratea and efficient form of itself.
